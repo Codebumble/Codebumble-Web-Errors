@@ -1,0 +1,10 @@
+{
+  "CBx077DB": {
+    "errortype": "Server",
+    "errorCode": 500,
+    "type": "Communication",
+    "Possible Reason": "Cant Communicate with The Database. Maybe Database is Shut Down or not set up in the (dot) env file."
+  },
+
+
+}
