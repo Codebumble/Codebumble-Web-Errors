@@ -5,6 +5,12 @@
     "type": "Communication",
     "Possible Reason": "Cant Communicate with The Database. Maybe Database is Shut Down or not set up in the (dot) env file."
   },
+  "CBx066xR": {
+    "errortype": "Client-Side",
+    "errorCode": 200,
+    "type": "Validation",
+    "Possible Reason": "Invalied Data Sent. Data is not assigned or not exist in The database."
+  },
 
 
 }
